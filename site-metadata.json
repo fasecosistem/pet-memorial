@@ -46,9 +46,9 @@
       }
     ],
     "tagline": "Virtual pet memorial",
-    "logo_img": "images/logo.png",
+    "logo_img": "/images/pet-memo-logo.png",
     "has_social": true,
-    "background_img": "images/header-bg.jpg",
+    "background_img": "/images/dog-sitting-transparent-background.png",
     "title": "PetMemorial.ML",
     "type": "header",
     "nav_links": [
@@ -85,8 +85,8 @@
     "links": [
       {
         "type": "action",
-        "label": "Made with Stackbit.",
-        "url": "https://www.stackbit.com",
+        "label": "Web Development by Promovis",
+        "url": "https://www.promovis.ro",
         "style": "link",
         "new_window": true
       }
