@@ -1,3 +1,35 @@
 [build]
 publish = "public"
 command = "./stackbit-build.sh"
+[[plugins]]
+package = "netlify-plugin-gatsby-cache"
+[[plugins]]
+package = "netlify-plugin-image-optim"
+[[plugins]]
+package = "netlify-plugin-inline-critical-css"
+[[plugins]]
+package = "@netlify/plugin-sitemap"
+
+  [plugins.inputs]
+  buildDir = "public"
+  exclude = [
+    # By file Path
+    './build-dir/admin/index.html',
+    # By Glob pattern
+    '**/**/child-one.html'
+  ]
+  [[plugins]]
+  package = "netlify-plugin-submit-sitemap"
+
+	[plugins.inputs]
+	# The base url of your site (optional, default = main URL set in Netlify)
+	baseUrl = "https://www.petmemorial.ml"
+
+	# Path to the sitemap URL (optional, default = /sitemap.xml)
+	sitemapPath = "/sitemap.xml"
+
+	# Enabled providers to submit sitemap to (optional, default = 'google', 'bing'). Possible providers are currently only 'google' and 'bing'.
+	providers = [
+		"google",
+		"bing"
+	]
