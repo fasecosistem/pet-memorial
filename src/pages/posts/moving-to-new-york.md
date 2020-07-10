@@ -1,24 +1,86 @@
 ---
-title: Few Things I Wish I Knew Before I Moved to New York
-subtitle: A cautionary tale about life in New York
-date: '2018-01-23'
-thumb_img_path: images/5.jpg
-content_img_path: images/5.jpg
-excerpt: >-
-  The City of New York, usually called either New York City (NYC) or simply New
-  York (NY), is the most populous city in the United States. With an estimated
-  2017 population of 8,622,698 distributed over a land area of about 302.6
-  square miles (784 km2), New York is also the most densely populated major city
-  in the United States.
+title: Few Things I Wish I Knew Before I Lost My Pet
+subtitle: A cautionary tale about life of your little furry friends
+date: 2018-01-23
+thumb_img_path: /images/10.jpg
+content_img_path: /images/10.jpg
+excerpt: Losing a pet is always painful and we cannot hope to take that sorrow
+  away, but many people find that having a special memorial to their pet is a
+  great comfort.
 template: post
 ---
-
-**The City of New York**, usually called either New York City (NYC) or simply New York (NY), is the most populous city in the United States. With an estimated 2017 population of 8,622,698 distributed over a land area of about 302.6 square miles (784 km2), New York is also the most densely populated major city in the United States.
-
-Tellus id interdum velit laoreet id donec ultrices tincidunt arcu. Suscipit tellus mauris a diam maecenas sed enim ut. Risus quis varius quam quisque id diam vel. Nulla facilisi etiam dignissim diam quis enim. Sed blandit libero volutpat sed cras ornare. In metus vulputate eu scelerisque felis. Integer enim neque volutpat ac tincidunt vitae semper quis. Morbi quis commodo odio aenean sed adipiscing diam donec. Quis auctor elit sed vulputate mi sit amet mauris commodo. Maecenas sed enim ut sem viverra aliquet. Eget dolor morbi non arcu risus quis varius quam. Risus quis varius quam quisque id diam vel.
+**At Pet Memorial**, we understand the losing of your pet is always painful and we cannot hope to take that sorrow away, but many people find that having a special memorial to their pet is a great comfort. 
 
 > In New York it seems like there's no Monday or Saturday or Sunday. The town is always moving. The vibe is great. - Thierry Henry
 
-Convallis aenean et tortor at risus viverra adipiscing at in. Maecenas accumsan lacus vel facilisis volutpat est. Nisl suscipit adipiscing bibendum est ultricies. Nulla facilisi cras fermentum odio eu feugiat pretium. Donec ac odio tempor orci dapibus. Eget velit aliquet sagittis id. Morbi non arcu risus quis varius quam quisque id diam. Facilisis gravida neque convallis a cras semper auctor neque vitae. Diam phasellus vestibulum lorem sed risus ultricies tristique nulla aliquet. Aliquam vestibulum morbi blandit cursus risus. Eget mauris pharetra et ultrices neque ornare. Donec ac odio tempor orci dapibus ultrices in. Malesuada fames ac turpis egestas sed tempus. Commodo odio aenean sed adipiscing. Vel pretium lectus quam id. Eget mi proin sed libero enim sed. Neque viverra justo nec ultrices dui sapien.
+### Suggested Ideas for Personalised Memorial Messages
 
-Dignissim diam quis enim lobortis scelerisque. Vitae elementum curabitur vitae nunc. Ultrices neque ornare aenean euismod elementum nisi quis eleifend quam. Et ligula ullamcorper malesuada proin libero nunc consequat interdum. Quam lacus suspendisse faucibus interdum posuere. Bibendum arcu vitae elementum curabitur vitae nunc. Ullamcorper malesuada proin libero nunc. Sit amet risus nullam eget felis eget nunc lobortis. Elementum curabitur vitae nunc sed velit dignissim sodales. Turpis in eu mi bibendum neque egestas congue quisque egestas.
+* "You Made Our Family Whole"
+
+  "Simply The Best"
+
+  "Our Beloved Shadow"
+
+  "Snuffle Hard And Run Free"
+
+  "So Loved And So Missed"
+
+  "So Sadly Missed"
+
+  "Always In Our Thoughts"
+
+  "Always Remembered"
+
+  "Forever In Our Hearts"
+
+  "Always Loved And Remembered"
+
+  "Always In Our Hearts"
+
+  "Forever Loved, Never Forgotten"
+
+  "In Our Hearts Forever"
+
+  "Much Loved Never Forgotten"
+
+  "Forever Missed"
+
+  "Never Forgotten"
+
+  "My Best Friend"
+
+  "My Wonderful Companion"
+
+  "Our Faithful, Loyal And Loving Companion"
+
+  "We'll Miss You"
+
+  "Your Paw Prints Are On Our Hearts Forever"
+
+  "Our Best Friend"
+
+  "You Left A Trail Of Beautiful Memories"
+
+  "Cherished Thoughts"
+
+  "Forever Remembered, Forever Missed"
+
+  "Best Friend And Loving Companion"
+
+  "Dearly Missed Forever Loved"
+
+  "Always In Our Hearts And Thoughts"
+
+  "Our Best Friend, Never Forgotten, We Will Love You Forever"
+
+  "Missed But Never Forgotten"
+
+  "A Loyal Friend"
+
+  "Loyal And Faithful Friends"
+
+  "Always By Our Side Wherever We May Go"
+
+  "Loved and Missed So Much"
+
+  "You Are Here With Us Always"
