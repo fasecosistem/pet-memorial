@@ -4,7 +4,7 @@ subtitle: Your beloved late Pet Memorial here
 excerpt: "**At PetMemorial.ML** we understand the feelings that come with the
   loss of a pet may be intense, painful, confusing, and more. These feelings,
   however, are a normal part of the grieving process."
-img_path: images/style-guide.jpg
+img_path: /images/7.jpg
 template: page
 ---
 **At PetMemorial.ML** we understand the feelings that come with the loss of a pet may be intense, painful, confusing, and more. These feelings, however, are a normal part of the grieving process. They allow us to deal with our grieving for pet loss and accept the natural passage from life to death..
@@ -12,6 +12,8 @@ template: page
 We are aware that the loss of our pet also calls for the support and sympathy of those around us to help us cope. Family members, friends, the veterinary team and even other pets can all play a role in helping us work through our sorrow. In addition this support often requires patience and understanding on the part of those around us.
 
 While grieving for pet loss is a very personal and unique experience, you need not face this alone. Here you will find comfort from our community of pet owners and from **PetMemorial.ML**.
+
+![PetMemorial.ML](/images/ca-wildfires-volunteer-dog.jpg "PetMemorial.ML")
 
 ### Rainbow Bridge
 
