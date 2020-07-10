@@ -15,7 +15,7 @@ A creative and special way to celebrate the life of your beloved dog is to have 
 
 Handmade memory quilts are a wonderfully personal way to remember your pet using a collection of your favourite images. A talented seamstress will be able to create one for you, but there are plenty available online if you would prefer this instead.
 
-Planting a tree or flower in your garden to signify your pet's life will provide you with a beautiful daily reminder of the memories they gave you. Whether they had a favourite spot in your [garden](https://www.countryliving.com/uk/homes-interiors/gardens/a26389116/small-garden-design-ideas-gardeners-world-joe-swift/) or a place they enjoyed digging around in, choose a special location outside to plant something new.
+Planting a tree or flower in your garden to signify your pet's life will provide you with a beautiful daily reminder of the memories they gave you. Whether they had a favourite spot in your garden or a place they enjoyed digging around in, choose a special location outside to plant something new.
 
 ### Compiling a memory box
 
