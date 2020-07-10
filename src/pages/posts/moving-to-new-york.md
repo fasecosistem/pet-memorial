@@ -2,7 +2,7 @@
 title: Few Things I Wish I Knew Before I Lost My Pet
 subtitle: A cautionary tale about life of your little furry friends
 date: 2018-01-23
-thumb_img_path: /images/10.jpg
+thumb_img_path: /images/happy-cat-841x947.png
 content_img_path: /images/10.jpg
 excerpt: Losing a pet is always painful and we cannot hope to take that sorrow
   away, but many people find that having a special memorial to their pet is a
