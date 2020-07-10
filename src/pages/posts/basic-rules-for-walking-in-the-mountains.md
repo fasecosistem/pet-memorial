@@ -8,7 +8,7 @@ excerpt: Making something in honor of your furry family member can help coping
   with the grief
 template: post
 ---
-![Pet Memorial](/images/2.jpg)
+![Pet Memorial](/images/ca-wildfires-volunteer-dog.jpg)
 
 Planter.
 
