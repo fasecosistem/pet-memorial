@@ -14,9 +14,9 @@ package = "@netlify/plugin-sitemap"
   buildDir = "public"
   exclude = [
     # By file Path
-    './build-dir/admin/index.html',
+    './build-dir/public/admin/index.html',
     # By Glob pattern
-    '**/**/child-one.html'
+    '**/**/admin/index.html'
   ]
   [[plugins]]
   package = "netlify-plugin-submit-sitemap"
